@@ -1,0 +1,23 @@
+.hearder {
+    height: 55px;
+    background-color: blue;
+    color: rgb(173, 199, 28);
+    position: flex;
+    top: 0;
+    width: 100%;
+    z-index: inherit;
+}
+
+.header-logo img {
+    width: 170px;
+    position: left;
+    left: 140px;
+    top: 5px;
+
+}
+.header-logo2 img{
+    width: 40%;
+    position: right;
+    right: 5px;
+    top: 5px;
+}
